@@ -1,6 +1,8 @@
 SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin
 MAILTO=root
-0 6 * * * cea sign
+10 6 * * * cea sign
+26 12 * * * cea sign
+38 21 * * * cea sign
 # 0 21 * * * cea attendance
 # 如需开启查寝功能，请移除上行注释
